@@ -6,16 +6,16 @@
 
 Aplikasi generator QR Code modern dengan tampilan yang menarik dan mudah digunakan. Dibuat menggunakan Laravel dan Bootstrap.
 
-## 📋 Fitur Utama
+##  Fitur Utama
 
--   ✨ Interface modern dan responsif
--   🎨 Generate QR Code dari teks atau URL
--   📏 Pilihan ukuran QR Code (100x100 - 400x400 px)
--   💾 Download QR Code dalam format PNG
--   🌈 Tampilan dengan efek visual menarik
--   📱 Mendukung semua perangkat (Responsive)
+-    Interface modern dan responsif
+-    Generate QR Code dari teks atau URL
+-    Pilihan ukuran QR Code (100x100 - 400x400 px)
+-    Download QR Code dalam format PNG
+-    Tampilan dengan efek visual menarik
+-    Mendukung semua perangkat (Responsive)
 
-## 🚀 Teknologi
+##  Teknologi
 
 -   **Laravel** v10.x - Framework PHP
 -   **Bootstrap** v5.3 - Framework CSS
@@ -79,7 +79,7 @@ FILESYSTEM_DISK=public
 php artisan serve
 ```
 
-## 💻 Penggunaan
+##  Penggunaan
 
 1. Buka aplikasi di browser: `http://localhost:8000`
 2. Masukkan teks atau URL yang ingin di-generate menjadi QR Code
@@ -87,7 +87,7 @@ php artisan serve
 4. Klik tombol "Generate QR Code"
 5. QR Code akan muncul dan bisa diunduh
 
-## 🔧 Kustomisasi
+##  Kustomisasi
 
 Anda dapat mengkustomisasi tampilan dengan mengubah:
 
@@ -95,32 +95,3 @@ Anda dapat mengkustomisasi tampilan dengan mengubah:
 -   Ukuran QR Code di form select
 -   Konfigurasi QR Code di `QRCodeController.php`
 
-## 🤝 Kontribusi
-
-Kontribusi selalu diterima dengan senang hati:
-
-1. Fork repository
-2. Buat branch baru (`git checkout -b fitur-baru`)
-3. Commit perubahan (`git commit -m 'Menambah fitur baru'`)
-4. Push ke branch (`git push origin fitur-baru`)
-5. Buat Pull Request
-
-## 📝 Lisensi
-
-Project ini dilisensikan di bawah [MIT License](LICENSE).
-
-## 👨‍💻 Author
-
-Dibuat oleh [Marthin Alfreinsco Salakory](https://github.com/alfreinsco)
-
-## 📧 Kontak
-
-Jika ada pertanyaan atau masukan, silakan hubungi:
-
--   GitHub: [@alfreinsco](https://github.com/alfreinsco)
--   Email: [alfreinsco@gmail.com](mailto:alfreinsco@gmail.com)
--   Whatsapp: [+62 813-1881-2027](https://wa.me/6281318812027)
-
----
-
-⭐ Jangan lupa beri star jika project ini bermanfaat!
